@@ -39,7 +39,7 @@ h1 {
     text-transform: uppercase;
 }
 
-#entrada-de-texto {
+#joana {
     display: flex;
     height: 12rem;
     padding: 1.4rem 2.5rem 2.5rem 2.5rem;
@@ -51,14 +51,14 @@ h1 {
     font-size: 2rem;
 }
 
-#entrada-de-texto::placeholder {
+#joana::placeholder {
     color: #828282;
     font-size: 2rem;
     font-weight: 400;
     line-height: normal;
 }
 
-#botao-palavrachave {
+#carlos {
     display: flex;
     padding: 1.25rem;
     justify-content: center;
@@ -73,7 +73,7 @@ h1 {
     line-height: normal;
 }
 
-#resultado-palavrachave {
+#maria {
     display: flex;
     border-radius: 0.625rem;
     align-self: stretch;
