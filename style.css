@@ -1,14 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
 
 :root {
-    --cor-destaque: #ED145B;
-    --cor-gradiente-preto: linear-gradient(113deg, #000 0%, #1E2021 44.96%, #1E2022 100%);
+    --cor-destaque: #b2eca1;
+    --cor-gradiente-preto: linear-gradient(113deg, #282e26 0%, #081409 44.96%, #262727 100%);
 }
 
 * {
     margin: 0;
     padding: 0;
-    font-family: Montserrat;
+    font-family:fantasy;
 }
 
 body {

@@ -10,7 +10,7 @@ const campoResultado = document.querySelector("#maria");
 
 const termosChave = proctext(text);
 
-campoResultado.textContent = termosChave.join(", ");
+campoResultado.textContent = termosChave.join(" - ");
 
 
 }
